@@ -183,7 +183,7 @@
         <poi.version>5.2.2</poi.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <protobuf-java.version>3.19.3</protobuf-java.version>
-        <gcp.protobuf-java.version>3.19.3</gcp.protobuf-java.version>
+        <gcp.protobuf-java.version>3.19.6</gcp.protobuf-java.version>
         <ratis.version>2.1.0</ratis.version>
         <ratis-thirdparty.version>0.7.0</ratis-thirdparty.version>
         <scala.version>2.12.10</scala.version>
@@ -246,7 +246,7 @@
         <aws-java-sdk.version>1.12.125</aws-java-sdk.version>
 
         <!-- GCP HSM -->
-        <google.cloud.kms>2.3.0</google.cloud.kms>
+        <google.cloud.kms>2.6.8</google.cloud.kms>
 
         <!-- JaCoCo Properties -->
         <jacoco.version>0.8.7</jacoco.version>
