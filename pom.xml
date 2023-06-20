@@ -119,7 +119,7 @@
         <googlecode.log4jdbc.version>1.2</googlecode.log4jdbc.version>
         <gson.version>2.9.0</gson.version>
         <guice.version>4.0</guice.version>
-        <hadoop.version>3.3.0</hadoop.version>
+        <hadoop.version>3.3.1</hadoop.version>
         <ozone.version>1.0.0</ozone.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hbase.version>2.2.6</hbase.version>
@@ -221,10 +221,10 @@
         <presto.re2j.version>1.1</presto.re2j.version>
 
         <!-- trino plugin deps -->
-        <trino.airlift.version>0.192</trino.airlift.version>
+        <trino.airlift.version>233</trino.airlift.version>
         <trino.bval-jsr.version>2.0.0</trino.bval-jsr.version>
         <trino.guice.version>4.2.2</trino.guice.version>
-        <trino.guava.version>26.0-jre</trino.guava.version>
+        <trino.guava.version>32.0.0-jre</trino.guava.version>
         <trino.validation-api.version>2.0.1.Final</trino.validation-api.version>
         <trino.re2j.version>1.1</trino.re2j.version>
 
