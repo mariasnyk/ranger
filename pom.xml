@@ -229,7 +229,7 @@
         <trino.re2j.version>1.1</trino.re2j.version>
 
         <!-- Azure Key Vault dependencies -->
-        <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
+        <com.microsoft.azure.version>1.33.0</com.microsoft.azure.version>
         <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
         <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
         <com.microsoft.rest.client-runtime.version>1.6.7</com.microsoft.rest.client-runtime.version>
